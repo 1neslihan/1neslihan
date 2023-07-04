@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nc_neslihan@outlook.com**
 
-- 🤝 I'm currently looking for a job **as a developer.**
+- 🤝 I'm currently looking for a job **as a  full-stack developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
