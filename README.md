@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neslihan&label=Profile%20views&color=0e75b6&style=flat" alt="1neslihan" /> </p>
 
-- 🔭 I’m currently working on [data crawler bot](https://github.com/1neslihan/UpSchool-FullStack-Development-Bootcamp/tree/master/Crawler/Crawler)
+- 🔭 I’m currently working on [data crawler bot](https://github.com/1neslihan/UpSchool-FullStack-Development-Bootcamp/tree/master/Crawler)
 
 - 🌱 I’m currently learning **react , mongoDB , clean architecture (CQRS)**
 
