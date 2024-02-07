@@ -7,11 +7,8 @@
 
 - 🌱 I’m currently learning **react , mongoDB , clean architecture (CQRS)**
 
-- 👨‍💻 I'm currently full-stack development bootcamp student at UpSchool. 
-
 - 📫 How to reach me **nc_neslihan@outlook.com**
 
-- 🤝 I'm currently looking for a job **as a  full-stack developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
