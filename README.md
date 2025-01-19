@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1neslihan&label=Profile%20views&color=0e75b6&style=flat" alt="1neslihan" /> </p>
 
-- 🔭 I’m currently working on [T-BOT](https://github.com/1neslihan/T-BOT)
+- 🔭 I’m currently working on IconGeneratorAI
 
-- 🌱 I’m currently learning **react , mongoDB , clean architecture (CQRS)**
+- 🌱 I’m currently learning **AI , clean architecture (CQRS)**
 
 - 📫 How to reach me **nc_neslihan@outlook.com**
 
